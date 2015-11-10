@@ -1,8 +1,8 @@
 #include <stdio.h>
-// GIT1
+
 int main()
 {
-printf("AAA\n");
-  printf("aaa\n");
+ printf("AA\n");
+
   printf("hello\n");
 }
